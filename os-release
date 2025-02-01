@@ -1,0 +1,10 @@
+NAME="Nexa Linux"
+PRETTY_NAME="Nexa Linux"
+ID=nexa
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;0;120;255"
+HOME_URL="https://nexalinux.xyz/"
+DOCUMENTATION_URL="https://docs.nexalinux.xyz/"
+TERMS_URL="https://nexalinux.xyz/terms/"
+LOGO=nexalinux-logo
