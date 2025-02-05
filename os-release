@@ -1,6 +1,6 @@
 NAME="Nexa Linux"
 PRETTY_NAME="Nexa Linux"
-ID=nexa
+ID=nexalinux
 ID_LIKE=arch
 BUILD_ID=rolling
 ANSI_COLOR="38;2;0;120;255"
