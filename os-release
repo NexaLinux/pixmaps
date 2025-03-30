@@ -1,8 +1,7 @@
 NAME="Nexa Linux"
 PRETTY_NAME="Nexa Linux"
 ID=nexalinux
-ID_LIKE=arch
-BUILD_ID=rolling
+ID_LIKE=ubuntu
 ANSI_COLOR="38;2;0;120;255"
 HOME_URL="https://nexalinux.xyz/"
 DOCUMENTATION_URL="https://docs.nexalinux.xyz/"
