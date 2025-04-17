@@ -7,3 +7,4 @@ HOME_URL="https://nexalinux.xyz/"
 DOCUMENTATION_URL="https://docs.nexalinux.xyz/"
 TERMS_URL="https://nexalinux.xyz/terms/"
 LOGO=nexalinux-logo
+VERSION_CODENAME="nexalinux"
